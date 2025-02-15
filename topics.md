@@ -39,6 +39,7 @@
 - [gamedev](#gamedev)
 - [git](#git)
 - [github-api](#github-api)
+- [go](#go)
 - [golang](#golang)
 - [google](#google)
 - [gulp](#gulp)
@@ -48,6 +49,7 @@
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
+- [json](#json)
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
@@ -82,6 +84,7 @@
 - [vpn](#vpn)
 - [webapp](#webapp)
 - [windows](#windows)
+- [xml](#xml)
 
 ## android 
 
@@ -141,6 +144,7 @@
 
 ## cli 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
@@ -247,8 +251,13 @@
 
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 
+## go 
+
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+
 ## golang 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 
@@ -295,6 +304,10 @@
 - [adaxi/audio-output-switcher](https://github.com/adaxi/audio-output-switcher) - Gnome Shell Extension: Adds a switch for choosing audio output to the system menu.
 - [ninjadev/revision-invite-2018](https://github.com/ninjadev/revision-invite-2018) - "No Invitation" – Ninjadev. Invitation for Revision 2018, submitted to Under Construction 2017.
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
+
+## json 
+
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 
 ## latex 
 
@@ -373,7 +386,7 @@
 - [PavelBlend/blender-xray](https://github.com/PavelBlend/blender-xray) - STALKER (aka xray-engine) import/export plugin for Blender 3D
 - [revolucas/AXRToolset](https://github.com/revolucas/AXRToolset) - 
 - [DravenusRex/stalker-gamma-linux-guide](https://github.com/DravenusRex/stalker-gamma-linux-guide) - A guide to getting S.T.A.L.K.E.R. - G.A.M.M.A. running on GNU/LINUX.
-- [seeinglogic/ariadne](https://github.com/seeinglogic/ariadne) - 
+- [seeinglogic/ariadne](https://github.com/seeinglogic/ariadne) - Ariadne: Binary Ninja Graph Analysis Plugin
 - [vlcn-io/materialite](https://github.com/vlcn-io/materialite) - Differential Dataflow & Incremental View Maintenance for JavaScript
 - [openhoangnc/android_model_name](https://github.com/openhoangnc/android_model_name) - 
 - [DumprX/DumprX-CI-Bot](https://github.com/DumprX/DumprX-CI-Bot) - Dump Android ROMs/Firmwares via a PR, for free!
@@ -755,6 +768,10 @@
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [thesecretclub/riscy-business](https://github.com/thesecretclub/riscy-business) - RISC-V Virtual Machine
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
+
+## xml 
+
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 
 
 ## License
