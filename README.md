@@ -197,6 +197,7 @@
 
 ## Go 
 
+- [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [openhoangnc/android_model_name](https://github.com/openhoangnc/android_model_name) - 
 - [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
 - [slackhq/go-audit](https://github.com/slackhq/go-audit) - go-audit is an alternative to the auditd daemon that ships with many distros
@@ -331,7 +332,7 @@
 - [jeffssh/CVE-2021-30860](https://github.com/jeffssh/CVE-2021-30860) - Collection of materials relating to FORCEDENTRY
 - [pycrate-org/pycrate](https://github.com/pycrate-org/pycrate) - A Python library to ease the development of encoders and decoders for various protocols and file formats, especially telecom ones. Provides an ASN.1 compiler and a CSN.1 runtime.
 - [PavelBlend/blender-xray](https://github.com/PavelBlend/blender-xray) - STALKER (aka xray-engine) import/export plugin for Blender 3D
-- [seeinglogic/ariadne](https://github.com/seeinglogic/ariadne) - 
+- [seeinglogic/ariadne](https://github.com/seeinglogic/ariadne) - Ariadne: Binary Ninja Graph Analysis Plugin
 - [R0rt1z2/lkpatcher](https://github.com/R0rt1z2/lkpatcher) - Streamline tool and module to patch bootloader (LK) images of MTK device(s).
 - [mzakocs/qualcomm_baseband_scripts](https://github.com/mzakocs/qualcomm_baseband_scripts) - Collection of scripts for reversing Qualcomm Hexagon baseband / modem firmware
 - [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
