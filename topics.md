@@ -362,7 +362,7 @@
 
 ## others 
 
-- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Some helpful reimplementations of Google's Find My Device network
+- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
 - [vasi/lzopfs](https://github.com/vasi/lzopfs) - Random access to compressed files with a FUSE filesystem
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [bannsec/gallimaufry](https://github.com/bannsec/gallimaufry) - Command Line Parsing Library for USB PCAP Files
