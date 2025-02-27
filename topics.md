@@ -88,6 +88,7 @@
 
 ## android 
 
+- [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [crazystylus/otadump](https://github.com/crazystylus/otadump) - Extract partitions from Android OTA files.
 - [Tomiwa-Ot/SM-A217F_forensics](https://github.com/Tomiwa-Ot/SM-A217F_forensics) - Samsung modem commands over USB serial connection and secret dialer codes extracted from system packages
 - [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
@@ -257,6 +258,7 @@
 
 ## golang 
 
+- [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
