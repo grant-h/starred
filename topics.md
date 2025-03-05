@@ -364,7 +364,7 @@
 
 ## others 
 
-- [cxiao/reconstructing-rust-types-talk-re-verse-2025](https://github.com/cxiao/reconstructing-rust-types-talk-re-verse-2025) - Slides and materials for the talk Reconstructing Rust Types: A Practical Guide for Reverse Engineers at RE//verse 2025
+- [cxiao/reconstructing-rust-types-talk-re-verse-2025](https://github.com/cxiao/reconstructing-rust-types-talk-re-verse-2025) - Slides and materials for the talk Reconstructing Rust Types: A Practical Guide for Reverse Engineers at RE//verse 2025, presented on February 28, 2025.
 - [nlitsme/qualcomm-q6zip](https://github.com/nlitsme/qualcomm-q6zip) - decompressor for qualcomm q6zip and delta compressed firmware sections
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
 - [vasi/lzopfs](https://github.com/vasi/lzopfs) - Random access to compressed files with a FUSE filesystem
