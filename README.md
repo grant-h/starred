@@ -209,7 +209,7 @@
 
 ## HTML 
 
-- [cxiao/reconstructing-rust-types-talk-re-verse-2025](https://github.com/cxiao/reconstructing-rust-types-talk-re-verse-2025) - Slides and materials for the talk Reconstructing Rust Types: A Practical Guide for Reverse Engineers at RE//verse 2025
+- [cxiao/reconstructing-rust-types-talk-re-verse-2025](https://github.com/cxiao/reconstructing-rust-types-talk-re-verse-2025) - Slides and materials for the talk Reconstructing Rust Types: A Practical Guide for Reverse Engineers at RE//verse 2025, presented on February 28, 2025.
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [penibelst/jekyll-compress-html](https://github.com/penibelst/jekyll-compress-html) - A Jekyll layout that compresses HTML in pure Liquid
 - [BSVino/docs.gl](https://github.com/BSVino/docs.gl) - OpenGL Reference Documentation
