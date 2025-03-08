@@ -423,6 +423,7 @@
 
 ## Rust 
 
+- [bearcove/rc-zip](https://github.com/bearcove/rc-zip) - ZIP format implementation in Rust, sans-io
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [vasi/positioned-io](https://github.com/vasi/positioned-io) - Read and write from offsets in Rust.
