@@ -686,6 +686,7 @@
 
 ## rust 
 
+- [bearcove/rc-zip](https://github.com/bearcove/rc-zip) - ZIP format implementation in Rust, sans-io
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [crazystylus/otadump](https://github.com/crazystylus/otadump) - Extract partitions from Android OTA files.
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
