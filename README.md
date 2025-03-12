@@ -210,6 +210,7 @@
 ## HTML 
 
 - [cxiao/reconstructing-rust-types-talk-re-verse-2025](https://github.com/cxiao/reconstructing-rust-types-talk-re-verse-2025) - Slides and materials for the talk Reconstructing Rust Types: A Practical Guide for Reverse Engineers at RE//verse 2025, presented on February 28, 2025.
+- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [penibelst/jekyll-compress-html](https://github.com/penibelst/jekyll-compress-html) - A Jekyll layout that compresses HTML in pure Liquid
 - [BSVino/docs.gl](https://github.com/BSVino/docs.gl) - OpenGL Reference Documentation
@@ -455,7 +456,6 @@
 ## Shell 
 
 - [geohot/openhexagon](https://github.com/geohot/openhexagon) - An attempt at an open source toolchain for the Hexagon DSP
-- [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) - 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
 - [borovsky/x5-snapdragon-linux](https://github.com/borovsky/x5-snapdragon-linux) - Support for Qualcomm x5 Snapdragon LTE modems in linux
 - [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
 - [rrbranco/grsecurity-pax-history](https://github.com/rrbranco/grsecurity-pax-history) - GrSecurity and PaX Patches Before End of Public Release
