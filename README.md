@@ -139,7 +139,6 @@
 - [tizian/specular-manifold-sampling](https://github.com/tizian/specular-manifold-sampling) - Code for "Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints" (SIGGRAPH 2020) by Tizian Zeltner, Iliyan Georgiev, and Wenzel Jakob
 - [vtil-project/VTIL-Core](https://github.com/vtil-project/VTIL-Core) - Virtual-machine Translation Intermediate Language
 - [sslab-gatech/pwn2own2020](https://github.com/sslab-gatech/pwn2own2020) - Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities
-- [osmocom/osmo-ttcn3-hacks](https://github.com/osmocom/osmo-ttcn3-hacks) - Osmocom TTCN3 tests suites; mirrored from https://gitea.osmocom.org/ttcn3/osmo-ttcn3-hacks
 - [akrzemi1/static_string](https://github.com/akrzemi1/static_string) - A tool for representing and concatenating strings without heap memory
 - [kcat/openal-soft](https://github.com/kcat/openal-soft) - OpenAL Soft is a software implementation of the OpenAL 3D audio API.
 - [laserallan/malloc_geiger](https://github.com/laserallan/malloc_geiger) - 
@@ -456,6 +455,7 @@
 ## Shell 
 
 - [geohot/openhexagon](https://github.com/geohot/openhexagon) - An attempt at an open source toolchain for the Hexagon DSP
+- [osmocom/osmo-ttcn3-hacks](https://github.com/osmocom/osmo-ttcn3-hacks) - Osmocom TTCN3 tests suites; mirrored from https://gitea.osmocom.org/ttcn3/osmo-ttcn3-hacks
 - [borovsky/x5-snapdragon-linux](https://github.com/borovsky/x5-snapdragon-linux) - Support for Qualcomm x5 Snapdragon LTE modems in linux
 - [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
 - [rrbranco/grsecurity-pax-history](https://github.com/rrbranco/grsecurity-pax-history) - GrSecurity and PaX Patches Before End of Public Release
