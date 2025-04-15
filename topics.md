@@ -22,6 +22,7 @@
 - [cpp](#cpp)
 - [cryptography](#cryptography)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [database](#database)
 - [design](#design)
 - [django](#django)
@@ -158,6 +159,7 @@
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [vtil-project/VTIL-Core](https://github.com/vtil-project/VTIL-Core) - Virtual-machine Translation Intermediate Language
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+- [laurentlb/shader-minifier](https://github.com/laurentlb/shader-minifier) - Minify and obfuscate GLSL or HLSL code
 
 ## computer-science 
 
@@ -177,6 +179,10 @@
 
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 
+## cybersecurity 
+
+- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
+
 ## database 
 
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
@@ -187,7 +193,7 @@
 
 ## django 
 
-- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
 
 ## dotnet 
 
@@ -606,7 +612,6 @@
 - [gmdfalk/awmtt](https://github.com/gmdfalk/awmtt) - awesomewm testing tool
 - [rygorous/trip_gfx](https://github.com/rygorous/trip_gfx) - A Trip Through The Graphics Pipeline
 - [abique/vst-bridge](https://github.com/abique/vst-bridge) - VST bridge for Windows vst on Linux
-- [laurentlb/shader-minifier](https://github.com/laurentlb/shader-minifier) - Minify and obfuscate GLSL or HLSL code
 - [slimm609/checksec](https://github.com/slimm609/checksec) - Checksec
 - [graysky2/kernel_compiler_patch](https://github.com/graysky2/kernel_compiler_patch) - Kernel patch enables compiler optimizations for additional CPUs.
 - [fuzyll/libctf](https://github.com/fuzyll/libctf) - Library for creating CTF services.
@@ -641,7 +646,7 @@
 
 ## python 
 
-- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Tomiwa-Ot/SM-A217F_forensics](https://github.com/Tomiwa-Ot/SM-A217F_forensics) - Samsung modem commands over USB serial connection and secret dialer codes extracted from system packages
 - [JacquesLucke/animation_nodes](https://github.com/JacquesLucke/animation_nodes) - Node based visual scripting system designed for motion graphics in Blender.
@@ -709,7 +714,6 @@
 
 - [msm8916-mainline/CVE-2022-22063](https://github.com/msm8916-mainline/CVE-2022-22063) - Security issue in the hypervisor firmware of some older Qualcomm chipsets
 - [alexander-pick/shannon_modem_loader](https://github.com/alexander-pick/shannon_modem_loader) - Exynos Modem / Shannon baseband firmware loader for IDA Pro 8.x/9.x
-- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
 - [Cr4sh/qc_debug_monitor](https://github.com/Cr4sh/qc_debug_monitor) - Debug messages monitor for Qualcomm cellular modems
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
@@ -721,7 +725,7 @@
 
 ## security-tools 
 
-- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
 - [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
 
 ## self-hosted 
