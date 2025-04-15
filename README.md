@@ -338,7 +338,7 @@
 - [seeinglogic/ariadne](https://github.com/seeinglogic/ariadne) - Ariadne: Binary Ninja Graph Analysis Plugin
 - [R0rt1z2/lkpatcher](https://github.com/R0rt1z2/lkpatcher) - Streamline tool and module to patch bootloader (LK) images of MTK device(s).
 - [mzakocs/qualcomm_baseband_scripts](https://github.com/mzakocs/qualcomm_baseband_scripts) - Collection of scripts for reversing Qualcomm Hexagon baseband / modem firmware
-- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
 - [tenable/ghidra_tools](https://github.com/tenable/ghidra_tools) - A collection of Ghidra scripts, including the GPT-3 powered code analyser and annotator, G-3PO.
 - [un1fuzz/scudo_research](https://github.com/un1fuzz/scudo_research) - Scudo useful files
 - [Tomiwa-Ot/SM-A217F_forensics](https://github.com/Tomiwa-Ot/SM-A217F_forensics) - Samsung modem commands over USB serial connection and secret dialer codes extracted from system packages
