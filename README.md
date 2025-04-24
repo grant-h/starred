@@ -324,6 +324,7 @@
 
 ## Python 
 
+- [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [nlitsme/qualcomm-q6zip](https://github.com/nlitsme/qualcomm-q6zip) - decompressor for qualcomm q6zip and delta compressed firmware sections
 - [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
 - [bannsec/gallimaufry](https://github.com/bannsec/gallimaufry) - Command Line Parsing Library for USB PCAP Files
