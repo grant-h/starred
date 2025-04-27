@@ -51,6 +51,7 @@
 
 ## C 
 
+- [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [madler/infgen](https://github.com/madler/infgen) - Deflate disassember to convert a deflate, zlib, or gzip stream into a readable form.
 - [lkl/linux](https://github.com/lkl/linux) - Linux kernel source tree
