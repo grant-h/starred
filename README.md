@@ -229,6 +229,7 @@
 
 ## JavaScript 
 
+- [commaai/qdl.js](https://github.com/commaai/qdl.js) - a library for interfacing with Qualcomm devices in QDL mode
 - [stalker-tools/tools](https://github.com/stalker-tools/tools) - Stalker xray game engine tools
 - [bellingcat/sar-interference-tracker](https://github.com/bellingcat/sar-interference-tracker) - A Google Earth Engine tool for identifying satellite radar interference.
 - [Fmstrat/wintile](https://github.com/Fmstrat/wintile) - Windows 10 window tiling for GNOME
