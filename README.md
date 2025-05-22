@@ -51,6 +51,7 @@
 
 ## C 
 
+- [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules) - A collection of my Semgrep rules to facilitate vulnerability research.
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
 - [madler/infgen](https://github.com/madler/infgen) - Deflate disassember to convert a deflate, zlib, or gzip stream into a readable form.
