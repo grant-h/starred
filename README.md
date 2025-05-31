@@ -29,6 +29,7 @@
 - [Perl](#perl)
 - [Processing](#processing)
 - [Python](#python)
+- [Rich Text Format](#rich-text-format)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -226,7 +227,6 @@
 - [Battelle/cantordust](https://github.com/Battelle/cantordust) - Public repository for Cantordust Ghidra plugin.
 - [google/binnavi](https://github.com/google/binnavi) - BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
-- [openpreserve/format-corpus](https://github.com/openpreserve/format-corpus) - An openly-licensed corpus of small example files, covering a wide range of formats and creation tools.
 
 ## JavaScript 
 
@@ -413,6 +413,10 @@
 - [amperka/ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
 - [JonathanSalwan/ROPgadget](https://github.com/JonathanSalwan/ROPgadget) - This tool lets you search your gadgets on your binaries to facilitate your ROP exploitation. ROPgadget supports ELF, PE and Mach-O format on x86, x64, ARM, ARM64, PowerPC, SPARC, MIPS, RISC-V 64, and 
+
+## Rich Text Format 
+
+- [openpreserve/format-corpus](https://github.com/openpreserve/format-corpus) - An openly-licensed corpus of small example files, covering a wide range of formats and creation tools.
 
 ## Roff 
 
