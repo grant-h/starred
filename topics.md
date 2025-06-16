@@ -65,6 +65,7 @@
 - [others](#others)
 - [penetration-testing](#penetration-testing)
 - [privacy](#privacy)
+- [productivity](#productivity)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -380,7 +381,7 @@
 - [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [cxiao/reconstructing-rust-types-talk-re-verse-2025](https://github.com/cxiao/reconstructing-rust-types-talk-re-verse-2025) - Slides and materials for the talk Reconstructing Rust Types: A Practical Guide for Reverse Engineers at RE//verse 2025, presented on February 28, 2025.
 - [nlitsme/qualcomm-q6zip](https://github.com/nlitsme/qualcomm-q6zip) - decompressor for qualcomm q6zip and delta compressed firmware sections
-- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
+- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
 - [vasi/lzopfs](https://github.com/vasi/lzopfs) - Random access to compressed files with a FUSE filesystem
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
 - [bannsec/gallimaufry](https://github.com/bannsec/gallimaufry) - Command Line Parsing Library for USB PCAP Files
@@ -647,6 +648,10 @@
 
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [mark-ignacio/py-fakename](https://github.com/mark-ignacio/py-fakename) - Python wrapper for making fake identities with fakena.me
+
+## productivity 
+
+- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 
 ## pwa 
 
