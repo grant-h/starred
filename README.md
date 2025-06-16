@@ -329,7 +329,7 @@
 
 - [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [nlitsme/qualcomm-q6zip](https://github.com/nlitsme/qualcomm-q6zip) - decompressor for qualcomm q6zip and delta compressed firmware sections
-- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device trackers 🧭
+- [leonboe1/GoogleFindMyTools](https://github.com/leonboe1/GoogleFindMyTools) - Framework for tracking and building your own Google Find My Device / Find Hub trackers 🧭
 - [bannsec/gallimaufry](https://github.com/bannsec/gallimaufry) - Command Line Parsing Library for USB PCAP Files
 - [Mord3rca/gamma-launcher](https://github.com/Mord3rca/gamma-launcher) - Just another Launcher to setup S.T.A.L.K.E.R.: G.A.M.M.A.
 - [seemoo-lab/BaseTrace](https://github.com/seemoo-lab/BaseTrace) - A framework for researching the interface between the iPhone's application processor and its baseband
