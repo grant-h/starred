@@ -376,6 +376,8 @@
 
 ## others 
 
+- [fasterthanlime/stringsearch](https://github.com/fasterthanlime/stringsearch) - Collection of techniques for (binary) string searching
+- [y-256/libdivsufsort](https://github.com/y-256/libdivsufsort) - A lightweight suffix-sorting library
 - [commaai/qdl.js](https://github.com/commaai/qdl.js) - a library for interfacing with Qualcomm devices in QDL mode
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
 - [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
