@@ -52,6 +52,7 @@
 
 ## C 
 
+- [y-256/libdivsufsort](https://github.com/y-256/libdivsufsort) - A lightweight suffix-sorting library
 - [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules) - A collection of my Semgrep rules to facilitate vulnerability research.
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
 - [winfsp/winfsp](https://github.com/winfsp/winfsp) - Windows File System Proxy - FUSE for Windows
@@ -431,6 +432,7 @@
 
 ## Rust 
 
+- [fasterthanlime/stringsearch](https://github.com/fasterthanlime/stringsearch) - Collection of techniques for (binary) string searching
 - [bearcove/rc-zip](https://github.com/bearcove/rc-zip) - ZIP format implementation in Rust, sans-io
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [BurntSushi/fst](https://github.com/BurntSushi/fst) - Represent large sets and maps compactly with finite state transducers.
