@@ -305,6 +305,7 @@
 
 ## iot 
 
+- [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
 - [openthread/openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
 
 ## java 
@@ -376,6 +377,7 @@
 
 ## others 
 
+- [srlabs/hexagon_fuzz](https://github.com/srlabs/hexagon_fuzz) - A fuzzing framework for Hexagon baseband firmware using QEMU system emulation.
 - [fasterthanlime/stringsearch](https://github.com/fasterthanlime/stringsearch) - Collection of techniques for (binary) string searching
 - [y-256/libdivsufsort](https://github.com/y-256/libdivsufsort) - A lightweight suffix-sorting library
 - [commaai/qdl.js](https://github.com/commaai/qdl.js) - a library for interfacing with Qualcomm devices in QDL mode
@@ -403,7 +405,6 @@
 - [ConspiracyHu/kkpView-public](https://github.com/ConspiracyHu/kkpView-public) - Compression ratio analyzer for 64k intros through kkp files (rekkrunchy output)
 - [jeffssh/CVE-2021-30860](https://github.com/jeffssh/CVE-2021-30860) - Collection of materials relating to FORCEDENTRY
 - [pycrate-org/pycrate](https://github.com/pycrate-org/pycrate) - A Python library to ease the development of encoders and decoders for various protocols and file formats, especially telecom ones. Provides an ASN.1 compiler and a CSN.1 runtime.
-- [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
 - [PavelBlend/blender-xray](https://github.com/PavelBlend/blender-xray) - STALKER (aka xray-engine) import/export plugin for Blender 3D
 - [revolucas/AXRToolset](https://github.com/revolucas/AXRToolset) - 
 - [DravenusRex/stalker-gamma-linux-guide](https://github.com/DravenusRex/stalker-gamma-linux-guide) - A guide to getting S.T.A.L.K.E.R. - G.A.M.M.A. running on GNU/LINUX.
