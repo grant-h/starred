@@ -59,7 +59,6 @@
 - [madler/infgen](https://github.com/madler/infgen) - Deflate disassember to convert a deflate, zlib, or gzip stream into a readable form.
 - [lkl/linux](https://github.com/lkl/linux) - Linux kernel source tree
 - [msm8916-mainline/CVE-2022-22063](https://github.com/msm8916-mainline/CVE-2022-22063) - Security issue in the hypervisor firmware of some older Qualcomm chipsets
-- [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 - [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
 - [thesecretclub/riscy-business](https://github.com/thesecretclub/riscy-business) - RISC-V Virtual Machine
 - [laf0rge/radisys_lte_enb_for_qualcomm_fsm9955](https://github.com/laf0rge/radisys_lte_enb_for_qualcomm_fsm9955) - Rasdisys Open Source code for a LTE eNB on Qualcomm FSM9955
@@ -202,6 +201,7 @@
 
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+- [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 - [openhoangnc/android_model_name](https://github.com/openhoangnc/android_model_name) - 
 - [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka) - Modlishka. Reverse Proxy.
 - [slackhq/go-audit](https://github.com/slackhq/go-audit) - go-audit is an alternative to the auditd daemon that ships with many distros
