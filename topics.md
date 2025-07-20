@@ -432,7 +432,7 @@
 - [FirmWire/FirmWire](https://github.com/FirmWire/FirmWire) - FirmWire is a full-system baseband firmware emulation platform for fuzzing, debugging, and root-cause analysis of smartphone baseband firmwares
 - [P1sec/pycrate](https://github.com/P1sec/pycrate) - A Python library to ease the development of encoders and decoders for various protocols and file formats; contains ASN.1 and CSN.1 compilers.
 - [higan-emu/libco](https://github.com/higan-emu/libco) - libco is a cooperative multithreading library written in C89.
-- [michaeljclark/crefl](https://github.com/michaeljclark/crefl) - crefl is a runtime library and compiler plug-in to support reflection in C.
+- [michaeljclark/cinf](https://github.com/michaeljclark/cinf) - cinf is a runtime library and compiler plug-in to support reflection in C.
 - [psifertex/terminal_velocity](https://github.com/psifertex/terminal_velocity) - CTF Challenge for CSAW Finals 2021
 - [GJDuck/e9afl](https://github.com/GJDuck/e9afl) - AFL binary instrumentation
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
