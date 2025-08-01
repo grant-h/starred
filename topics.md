@@ -88,6 +88,7 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## android 
 
@@ -797,6 +798,10 @@
 ## xml 
 
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
+
+## zsh 
+
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
 
 ## License
