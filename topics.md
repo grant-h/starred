@@ -378,6 +378,8 @@
 
 ## others 
 
+- [m3rcer/IRvana](https://github.com/m3rcer/IRvana) - Slaying multi-language LLVM IR with obfuscation passes to achieve JIT execution
+- [OpenLI-NZ/openli](https://github.com/OpenLI-NZ/openli) - Open Source ETSI compliant Lawful Intercept software
 - [srlabs/hexagon_fuzz](https://github.com/srlabs/hexagon_fuzz) - A fuzzing framework for Hexagon baseband firmware using QEMU system emulation.
 - [fasterthanlime/stringsearch](https://github.com/fasterthanlime/stringsearch) - Collection of techniques for (binary) string searching
 - [y-256/libdivsufsort](https://github.com/y-256/libdivsufsort) - A lightweight suffix-sorting library
