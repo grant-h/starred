@@ -9,6 +9,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Dockerfile](#dockerfile)
 - [F#](#f#)
@@ -52,6 +53,7 @@
 
 ## C 
 
+- [OpenLI-NZ/openli](https://github.com/OpenLI-NZ/openli) - Open Source ETSI compliant Lawful Intercept software
 - [y-256/libdivsufsort](https://github.com/y-256/libdivsufsort) - A lightweight suffix-sorting library
 - [0xdea/semgrep-rules](https://github.com/0xdea/semgrep-rules) - A collection of my Semgrep rules to facilitate vulnerability research.
 - [mattiasgustavsson/dos-like](https://github.com/mattiasgustavsson/dos-like) - Engine for making things with a MS-DOS feel, but for modern platforms
@@ -176,6 +178,10 @@
 - [zooko/cryptopp](https://github.com/zooko/cryptopp) - git-svn mirror of https://cryptopp.svn.sourceforge.net/svnroot/cryptopp
 - [stanleyseow/RF24](https://github.com/stanleyseow/RF24) - Arduino and Raspberry Pi driver/libraries for nRF24L01
 - [ashima/webgl-noise](https://github.com/ashima/webgl-noise) - Procedural Noise Shader Routines compatible with WebGL
+
+## CMake 
+
+- [m3rcer/IRvana](https://github.com/m3rcer/IRvana) - Slaying multi-language LLVM IR with obfuscation passes to achieve JIT execution
 
 ## CSS 
 
