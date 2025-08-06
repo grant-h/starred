@@ -378,6 +378,7 @@
 
 ## others 
 
+- [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) - CLI utility to extract Android OTA Payload
 - [m3rcer/IRvana](https://github.com/m3rcer/IRvana) - Slaying multi-language LLVM IR with obfuscation passes to achieve JIT execution
 - [OpenLI-NZ/openli](https://github.com/OpenLI-NZ/openli) - Open Source ETSI compliant Lawful Intercept software
 - [srlabs/hexagon_fuzz](https://github.com/srlabs/hexagon_fuzz) - A fuzzing framework for Hexagon baseband firmware using QEMU system emulation.
