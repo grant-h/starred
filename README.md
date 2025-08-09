@@ -289,6 +289,7 @@
 
 ## Others 
 
+- [xdaGari/tadiphone-buildprop-archive](https://github.com/xdaGari/tadiphone-buildprop-archive) - build.prop collection from dumps.tadiphone.dev/dumps
 - [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - Comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources
 - [n132/ARVO-Meta](https://github.com/n132/ARVO-Meta) - 
 - [mdowd79/presentations](https://github.com/mdowd79/presentations) - 
@@ -334,6 +335,7 @@
 
 ## Python 
 
+- [Android-Observatory/FotaFinder](https://github.com/Android-Observatory/FotaFinder) - Tool for extracting different installation of updates or installation of other apps signals to detect FOTA & OTA.
 - [srlabs/hexagon_fuzz](https://github.com/srlabs/hexagon_fuzz) - A fuzzing framework for Hexagon baseband firmware using QEMU system emulation.
 - [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
 - [nlitsme/qualcomm-q6zip](https://github.com/nlitsme/qualcomm-q6zip) - decompressor for qualcomm q6zip and delta compressed firmware sections
