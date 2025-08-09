@@ -92,6 +92,7 @@
 
 ## android 
 
+- [xdaGari/tadiphone-buildprop-archive](https://github.com/xdaGari/tadiphone-buildprop-archive) - build.prop collection from dumps.tadiphone.dev/dumps
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [crazystylus/otadump](https://github.com/crazystylus/otadump) - Extract partitions from Android OTA files.
 - [Tomiwa-Ot/SM-A217F_forensics](https://github.com/Tomiwa-Ot/SM-A217F_forensics) - Samsung modem commands over USB serial connection and secret dialer codes extracted from system packages
@@ -378,6 +379,7 @@
 
 ## others 
 
+- [Android-Observatory/FotaFinder](https://github.com/Android-Observatory/FotaFinder) - Tool for extracting different installation of updates or installation of other apps signals to detect FOTA & OTA.
 - [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) - CLI utility to extract Android OTA Payload
 - [m3rcer/IRvana](https://github.com/m3rcer/IRvana) - Slaying multi-language LLVM IR with obfuscation passes to achieve JIT execution
 - [OpenLI-NZ/openli](https://github.com/OpenLI-NZ/openli) - Open Source ETSI compliant Lawful Intercept software
