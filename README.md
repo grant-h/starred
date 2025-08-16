@@ -335,6 +335,7 @@
 
 ## Python 
 
+- [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [Android-Observatory/FotaFinder](https://github.com/Android-Observatory/FotaFinder) - Tool for extracting different installation of updates or installation of other apps signals to detect FOTA & OTA.
 - [srlabs/hexagon_fuzz](https://github.com/srlabs/hexagon_fuzz) - A fuzzing framework for Hexagon baseband firmware using QEMU system emulation.
 - [bata24/gef](https://github.com/bata24/gef) - GEF - GDB Enhanced Features for exploit devs & reversers
