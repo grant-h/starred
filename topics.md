@@ -79,6 +79,7 @@
 - [self-hosted](#self-hosted)
 - [shell](#shell)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
@@ -88,7 +89,6 @@
 - [webapp](#webapp)
 - [windows](#windows)
 - [xml](#xml)
-- [zsh](#zsh)
 
 ## android 
 
@@ -150,6 +150,7 @@
 
 ## cli 
 
+- [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -668,6 +669,7 @@
 
 ## python 
 
+- [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [opencve/opencve](https://github.com/opencve/opencve) - Vulnerability Intelligence Platform
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [Tomiwa-Ot/SM-A217F_forensics](https://github.com/Tomiwa-Ot/SM-A217F_forensics) - Samsung modem commands over USB serial connection and secret dialer codes extracted from system packages
@@ -764,6 +766,10 @@
 
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 
+## sqlite 
+
+- [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
+
 ## svelte 
 
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
@@ -803,10 +809,6 @@
 ## xml 
 
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
-
-## zsh 
-
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 
 
 ## License
