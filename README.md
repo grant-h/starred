@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [vasi/lzopfs](https://github.com/vasi/lzopfs) - Random access to compressed files with a FUSE filesystem
 - [nextgeniuspro/vfspp](https://github.com/nextgeniuspro/vfspp) - Virtual File System C++
 - [wolfpld/tracy](https://github.com/wolfpld/tracy) - Frame profiler
