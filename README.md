@@ -513,6 +513,7 @@
 
 ## TypeScript 
 
+- [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [vlcn-io/materialite](https://github.com/vlcn-io/materialite) - Differential Dataflow & Incremental View Maintenance for JavaScript
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
