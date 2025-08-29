@@ -382,6 +382,7 @@
 
 ## others 
 
+- [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [Android-Observatory/FotaFinder](https://github.com/Android-Observatory/FotaFinder) - Tool for extracting different installation of updates or installation of other apps signals to detect FOTA & OTA.
 - [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) - CLI utility to extract Android OTA Payload
 - [m3rcer/IRvana](https://github.com/m3rcer/IRvana) - Slaying multi-language LLVM IR with obfuscation passes to achieve JIT execution
