@@ -382,6 +382,7 @@
 
 ## others 
 
+- [dxa4481/clientHashing](https://github.com/dxa4481/clientHashing) - A demonstration of secure hashing done client side
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [Android-Observatory/FotaFinder](https://github.com/Android-Observatory/FotaFinder) - Tool for extracting different installation of updates or installation of other apps signals to detect FOTA & OTA.
 - [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) - CLI utility to extract Android OTA Payload
