@@ -238,6 +238,7 @@
 
 ## JavaScript 
 
+- [dxa4481/clientHashing](https://github.com/dxa4481/clientHashing) - A demonstration of secure hashing done client side
 - [commaai/qdl.js](https://github.com/commaai/qdl.js) - a library for interfacing with Qualcomm devices in QDL mode
 - [stalker-tools/tools](https://github.com/stalker-tools/tools) - Stalker xray game engine tools
 - [bellingcat/sar-interference-tracker](https://github.com/bellingcat/sar-interference-tracker) - A Google Earth Engine tool for identifying satellite radar interference.
