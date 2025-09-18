@@ -510,6 +510,7 @@
 
 ## TeX 
 
+- [usgraphics/usgc-invoice](https://github.com/usgraphics/usgc-invoice) - Invoice LaTeX template
 - [mrzool/cv-boilerplate](https://github.com/mrzool/cv-boilerplate) - Programmatic generation of high-quality CVs
 
 ## TypeScript 
