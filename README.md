@@ -41,6 +41,7 @@
 - [SystemVerilog](#systemverilog)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [VHDL](#vhdl)
 - [Verilog](#verilog)
 - [nesC](#nesc)
@@ -510,7 +511,6 @@
 
 ## TeX 
 
-- [usgraphics/usgc-invoice](https://github.com/usgraphics/usgc-invoice) - Invoice LaTeX template
 - [mrzool/cv-boilerplate](https://github.com/mrzool/cv-boilerplate) - Programmatic generation of high-quality CVs
 
 ## TypeScript 
@@ -520,6 +520,10 @@
 - [vlcn-io/materialite](https://github.com/vlcn-io/materialite) - Differential Dataflow & Incremental View Maintenance for JavaScript
 - [magcius/noclip.website](https://github.com/magcius/noclip.website) - A digital museum of video game levels
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## Typst 
+
+- [usgraphics/usgc-invoice](https://github.com/usgraphics/usgc-invoice) - Invoice LaTeX template
 
 ## VHDL 
 
