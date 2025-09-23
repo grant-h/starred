@@ -384,7 +384,6 @@
 - [mitshell/card](https://github.com/mitshell/card) - Facilitates communications with telco smartcard (especially SIM and USIM)
 - [fgsect/scat](https://github.com/fgsect/scat) - SCAT: Signaling Collection and Analysis Tool
 - [avatartwo/avatar2](https://github.com/avatartwo/avatar2) - Python core of avatar²
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [cyxx/extract_android_ota_payload](https://github.com/cyxx/extract_android_ota_payload) - Extract firmware images from an Android OTA payload.bin file
 - [jakev/sefcontext-parser](https://github.com/jakev/sefcontext-parser) - Parser for SEAndroid "file_contexts.bin" written in Python
 - [dragonsector/ctf-infrastructure](https://github.com/dragonsector/ctf-infrastructure) - CTF Infrastructure codebase
@@ -480,6 +479,7 @@
 
 - [geohot/openhexagon](https://github.com/geohot/openhexagon) - An attempt at an open source toolchain for the Hexagon DSP
 - [osmocom/osmo-ttcn3-hacks](https://github.com/osmocom/osmo-ttcn3-hacks) - Osmocom TTCN3 tests suites; mirrored from https://gitea.osmocom.org/ttcn3/osmo-ttcn3-hacks
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [borovsky/x5-snapdragon-linux](https://github.com/borovsky/x5-snapdragon-linux) - Support for Qualcomm x5 Snapdragon LTE modems in linux
 - [firmadyne/firmadyne](https://github.com/firmadyne/firmadyne) - Platform for emulation and dynamic analysis of Linux-based firmware
 - [rrbranco/grsecurity-pax-history](https://github.com/rrbranco/grsecurity-pax-history) - GrSecurity and PaX Patches Before End of Public Release
