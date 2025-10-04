@@ -85,6 +85,7 @@
 - [swiftui](#swiftui)
 - [terminal](#terminal)
 - [testing](#testing)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [webapp](#webapp)
 - [windows](#windows)
@@ -797,6 +798,10 @@
 
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [osmocom/osmo-ttcn3-hacks](https://github.com/osmocom/osmo-ttcn3-hacks) - Osmocom TTCN3 tests suites; mirrored from https://gitea.osmocom.org/ttcn3/osmo-ttcn3-hacks
+
+## visualization 
+
+- [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 
 ## vpn 
 
