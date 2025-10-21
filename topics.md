@@ -389,7 +389,7 @@
 - [dxa4481/clientHashing](https://github.com/dxa4481/clientHashing) - A demonstration of secure hashing done client side
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [Android-Observatory/FotaFinder](https://github.com/Android-Observatory/FotaFinder) - Tool for extracting different installation of updates or installation of other apps signals to detect FOTA & OTA.
-- [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) - CLI utility to extract Android OTA Payload
+- [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) - A fast and efficient Android OTA payload dumper written in Rust.
 - [m3rcer/IRvana](https://github.com/m3rcer/IRvana) - Slaying multi-language LLVM IR with obfuscation passes to achieve JIT execution
 - [OpenLI-NZ/openli](https://github.com/OpenLI-NZ/openli) - Open Source ETSI compliant Lawful Intercept software
 - [srlabs/hexagon_fuzz](https://github.com/srlabs/hexagon_fuzz) - A fuzzing framework for Hexagon baseband firmware using QEMU system emulation.
