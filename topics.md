@@ -44,6 +44,7 @@
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
+- [gui](#gui)
 - [gulp](#gulp)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
@@ -285,6 +286,10 @@
 ## google 
 
 - [openthread/openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
+
+## gui 
+
+- [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 
 ## gulp 
 
