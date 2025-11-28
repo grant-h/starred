@@ -122,7 +122,7 @@
 
 ## C# # 
 
-- [tixl3d/tixl](https://github.com/tixl3d/tixl) - Tooll 3 is an open source software to create realtime motion graphics.
+- [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 - [framefield/tooll](https://github.com/framefield/tooll) - Tooll is a new multi-purpose application for creating interactive 3d content and animations. It combines the best aspects of animation, compositing, and coding into a lightweight and intuitive UI. You
 - [zynqgeek/zedboard_oled_util](https://github.com/zynqgeek/zedboard_oled_util) - Small utility to convert .png to .bin and .bin to .png to be used to display images on the oled display on the Zedboard
 
