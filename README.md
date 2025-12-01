@@ -445,7 +445,7 @@
 
 ## Rust 
 
-- [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) - A fast and efficient Android OTA payload dumper written in Rust.
+- [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) - A fast and efficient Android OTA payload dumper
 - [fasterthanlime/stringsearch](https://github.com/fasterthanlime/stringsearch) - Collection of techniques for (binary) string searching
 - [bearcove/rc-zip](https://github.com/bearcove/rc-zip) - ZIP format implementation in Rust, sans-io
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
