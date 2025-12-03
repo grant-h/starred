@@ -534,7 +534,7 @@
 - [scwuaptx/HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
 - [dragonsector/ctf-infrastructure](https://github.com/dragonsector/ctf-infrastructure) - CTF Infrastructure codebase
 - [airbus-seclab/cpu_rec](https://github.com/airbus-seclab/cpu_rec) - Recognize cpu instructions in an arbitrary binary file
-- [entropyqueen/YateBTS_smssend](https://github.com/entropyqueen/YateBTS_smssend) - C++ plugin for YateBTS to easily send SMS through command line
+- [trpyn/YateBTS_smssend](https://github.com/trpyn/YateBTS_smssend) - C++ plugin for YateBTS to easily send SMS through command line
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [fms-cat/thump](https://github.com/fms-cat/thump) - Low-level-like environment for simulating multi paradigm glitch
 - [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
