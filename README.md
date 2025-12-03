@@ -152,7 +152,7 @@
 - [laserallan/malloc_geiger](https://github.com/laserallan/malloc_geiger) - 
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [uselessd/android-init-linux-gnu](https://github.com/uselessd/android-init-linux-gnu) - The raw sources of a porting attempt of a 20150730 snapshot of Android init to GNU/Linux
-- [entropyqueen/YateBTS_smssend](https://github.com/entropyqueen/YateBTS_smssend) - C++ plugin for YateBTS to easily send SMS through command line
+- [trpyn/YateBTS_smssend](https://github.com/trpyn/YateBTS_smssend) - C++ plugin for YateBTS to easily send SMS through command line
 - [ruben2020/codequery](https://github.com/ruben2020/codequery) - A code-understanding,  code-browsing or code-search tool. This is a tool to index, then query or search C, C++, Java, Python, Ruby, Go and Javascript source code. It builds upon the databases of cscop
 - [clymb3r/KdExploitMe](https://github.com/clymb3r/KdExploitMe) - A kernel driver to practice writing exploits against, as well as some example exploits using public techniques.
 - [wapiflapi/veles](https://github.com/wapiflapi/veles) - Visual reverse engineering tool.
