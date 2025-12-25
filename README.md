@@ -75,7 +75,7 @@
 - [mpdn/unthread](https://github.com/mpdn/unthread) - A deterministic, fuzzable pthread implementation
 - [can1357/ThePerfectInjector](https://github.com/can1357/ThePerfectInjector) - Literally, the perfect injector.
 - [Comsecuris/mtk-baseband-sanctuary](https://github.com/Comsecuris/mtk-baseband-sanctuary) - 
-- [cntools/rawdraw](https://github.com/cntools/rawdraw) - Primitive Platform Agnostic Graphics Library
+- [cntools/rawdraw](https://github.com/cntools/rawdraw) - Primitive Platform Agnostic Windowing+Input Header-Only Library
 - [cnlohr/rawdrawandroid](https://github.com/cnlohr/rawdrawandroid) - Build android apps without any java, entirely in C and Make
 - [seemoo-lab/frankenstein](https://github.com/seemoo-lab/frankenstein) - Broadcom and Cypress firmware emulation for fuzzing and further full-stack debugging
 - [Comsecuris/qemu-hexagon](https://github.com/Comsecuris/qemu-hexagon) - QEMU with support for QDSP6 user mode emulation
