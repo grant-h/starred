@@ -330,7 +330,7 @@
 
 - [shadowsim/shadowsim](https://github.com/shadowsim/shadowsim) - SIM Card tunnel for Alcatel OT-918D
 - [samyk/samytools](https://github.com/samyk/samytools) - Simple tools to make reverse engineering and console cowboying easier, primarily by data translation and manipulation + file handle piping. Mostly *nix tools with an emphasis on macOS.
-- [majutsushi/urxvt-font-size](https://github.com/majutsushi/urxvt-font-size) - Change the urxvt font size on the fly
+- [janlarres/urxvt-font-size](https://github.com/janlarres/urxvt-font-size) - Change the urxvt font size on the fly
 
 ## Processing 
 
