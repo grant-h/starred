@@ -134,7 +134,7 @@
 - [ConspiracyHu/kkpView-public](https://github.com/ConspiracyHu/kkpView-public) - Compression ratio analyzer for 64k intros through kkp files (rekkrunchy output)
 - [ConspiracyHu/apEx-public](https://github.com/ConspiracyHu/apEx-public) - Source code release for the apEx demotool, actively used for releases between 2014 and 2023
 - [SysSec-KAIST/DoLTEst](https://github.com/SysSec-KAIST/DoLTEst) - A negative testing framework, DoLTEst, for finding non-standard-compliant bugs in LTE protocol implementations of UEs
-- [michaeljclark/cinf](https://github.com/michaeljclark/cinf) - cinf is a runtime library and compiler plug-in to support reflection in C.
+- [larkmjc/cinf](https://github.com/larkmjc/cinf) - cinf is a runtime library and compiler plug-in to support reflection in C.
 - [GJDuck/e9afl](https://github.com/GJDuck/e9afl) - AFL binary instrumentation
 - [miek/inspectrum](https://github.com/miek/inspectrum) - Radio signal analyser
 - [Benjamin-Dobell/Heimdall](https://github.com/Benjamin-Dobell/Heimdall) - Heimdall is a cross-platform open-source tool suite used to flash firmware (aka ROMs) onto Samsung Galaxy devices.
