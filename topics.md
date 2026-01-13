@@ -87,6 +87,7 @@
 - [swiftui](#swiftui)
 - [terminal](#terminal)
 - [testing](#testing)
+- [video](#video)
 - [visualization](#visualization)
 - [vpn](#vpn)
 - [webapp](#webapp)
@@ -479,7 +480,6 @@
 - [m-labs/milkymist](https://github.com/m-labs/milkymist) - SoC design for Milkymist One - LM32, DDR SDRAM, 2D TMU, PFPU
 - [numba/llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
 - [timvideos/HDMI2USB-numato-opsis-sample-code](https://github.com/timvideos/HDMI2USB-numato-opsis-sample-code) - Example code for the Numato Opsis board, the first HDMI2USB production board.
-- [hdl-util/hdmi](https://github.com/hdl-util/hdmi) - Send video/audio over HDMI on an FPGA
 - [eurecom-s3/symcc](https://github.com/eurecom-s3/symcc) - SymCC: efficient compiler-based symbolic execution
 - [dfranx/SPIRV-VM](https://github.com/dfranx/SPIRV-VM) - Virtual machine for executing SPIR-V
 - [vvb2060/Magica](https://github.com/vvb2060/Magica) - 
@@ -812,6 +812,10 @@
 
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [osmocom/osmo-ttcn3-hacks](https://github.com/osmocom/osmo-ttcn3-hacks) - Osmocom TTCN3 tests suites; mirrored from https://gitea.osmocom.org/ttcn3/osmo-ttcn3-hacks
+
+## video 
+
+- [hdl-util/hdmi](https://github.com/hdl-util/hdmi) - Send video/audio over HDMI on an FPGA
 
 ## visualization 
 
