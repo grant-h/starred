@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [vasi/lzopfs](https://github.com/vasi/lzopfs) - Random access to compressed files with a FUSE filesystem
 - [nextgeniuspro/vfspp](https://github.com/nextgeniuspro/vfspp) - Virtual File System C++
