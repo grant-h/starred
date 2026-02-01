@@ -664,7 +664,6 @@
 - [facebookarchive/pfff](https://github.com/facebookarchive/pfff) - Tools for code analysis, visualizations, or style-preserving source transformation.
 - [zooko/cryptopp](https://github.com/zooko/cryptopp) - git-svn mirror of https://cryptopp.svn.sourceforge.net/svnroot/cryptopp
 - [aaronportnoy/toolbag](https://github.com/aaronportnoy/toolbag) - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
-- [jonoberheide/kstructhunter](https://github.com/jonoberheide/kstructhunter) - Routines for hunting down kernel structs.
 - [travisgoodspeed/goodfet](https://github.com/travisgoodspeed/goodfet) - An embedded bus adapter for various microcontrollers and radios.
 - [amperka/ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
 - [janlarres/urxvt-font-size](https://github.com/janlarres/urxvt-font-size) - Change the urxvt font size on the fly
