@@ -423,7 +423,6 @@
 - [mark-ignacio/py-fakename](https://github.com/mark-ignacio/py-fakename) - Python wrapper for making fake identities with fakena.me
 - [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto) - The Python Cryptography Toolkit
 - [aaronportnoy/toolbag](https://github.com/aaronportnoy/toolbag) - The IDA Toolbag is a plugin providing supplemental functionality to Hex-Rays IDA Pro disassembler.
-- [jonoberheide/kstructhunter](https://github.com/jonoberheide/kstructhunter) - Routines for hunting down kernel structs.
 - [travisgoodspeed/goodfet](https://github.com/travisgoodspeed/goodfet) - An embedded bus adapter for various microcontrollers and radios.
 - [amperka/ino](https://github.com/amperka/ino) - Command line toolkit for working with Arduino hardware
 - [sivel/speedtest-cli](https://github.com/sivel/speedtest-cli) - Command line interface for testing internet bandwidth using speedtest.net
