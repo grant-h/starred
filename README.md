@@ -20,6 +20,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -270,6 +271,10 @@
 ## Jupyter Notebook 
 
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie) - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+
+## Kotlin 
+
+- [hossain-khan/android-device-catalog-parser](https://github.com/hossain-khan/android-device-catalog-parser) - Android Device catalog CSV parser that is available from Google Play developer console.
 
 ## LLVM 
 
