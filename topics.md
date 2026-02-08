@@ -98,6 +98,7 @@
 
 ## android 
 
+- [hossain-khan/android-device-catalog-parser](https://github.com/hossain-khan/android-device-catalog-parser) - Android Device catalog CSV parser that is available from Google Play developer console.
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [xdaGari/tadiphone-buildprop-archive](https://github.com/xdaGari/tadiphone-buildprop-archive) - build.prop collection from dumps.tadiphone.dev/dumps
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
