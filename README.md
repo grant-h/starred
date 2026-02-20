@@ -32,7 +32,6 @@
 - [Processing](#processing)
 - [Python](#python)
 - [Rich Text Format](#rich-text-format)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Scala](#scala)
@@ -220,6 +219,7 @@
 - [monochromegane/the_platinum_searcher](https://github.com/monochromegane/the_platinum_searcher) - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings.
 - [michenriksen/gitrob](https://github.com/michenriksen/gitrob) - Reconnaissance tool for GitHub organizations
 - [zimmski/tavor](https://github.com/zimmski/tavor) - A generic fuzzing and delta-debugging framework
+- [slimm609/checksec](https://github.com/slimm609/checksec) - Checksec
 
 ## HTML 
 
@@ -436,10 +436,6 @@
 ## Rich Text Format 
 
 - [openpreserve/format-corpus](https://github.com/openpreserve/format-corpus) - An openly-licensed corpus of small example files, covering a wide range of formats and creation tools.
-
-## Roff 
-
-- [slimm609/checksec](https://github.com/slimm609/checksec) - Checksec
 
 ## Ruby 
 
