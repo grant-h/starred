@@ -299,6 +299,7 @@
 
 ## Others 
 
+- [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [xdaGari/tadiphone-buildprop-archive](https://github.com/xdaGari/tadiphone-buildprop-archive) - build.prop collection from dumps.tadiphone.dev/dumps
 - [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - Comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources
 - [n132/ARVO-Meta](https://github.com/n132/ARVO-Meta) - 
