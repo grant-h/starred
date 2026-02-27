@@ -98,6 +98,7 @@
 
 ## android 
 
+- [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [hossain-khan/android-device-catalog-parser](https://github.com/hossain-khan/android-device-catalog-parser) - Android Device catalog CSV parser that is available from Google Play developer console.
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [xdaGari/tadiphone-buildprop-archive](https://github.com/xdaGari/tadiphone-buildprop-archive) - build.prop collection from dumps.tadiphone.dev/dumps
