@@ -401,6 +401,7 @@
 
 ## others 
 
+- [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) - 
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [usgraphics/usgc-invoice](https://github.com/usgraphics/usgc-invoice) - Invoice LaTeX template
