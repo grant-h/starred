@@ -739,6 +739,7 @@
 
 ## rust 
 
+- [librasn/rasn](https://github.com/librasn/rasn) - A Safe #[no_std] ASN.1 Codec Framework
 - [bearcove/rc-zip](https://github.com/bearcove/rc-zip) - ZIP format implementation in Rust, sans-io
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
 - [crazystylus/otadump](https://github.com/crazystylus/otadump) - Extract partitions from Android OTA files.
