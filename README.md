@@ -448,6 +448,7 @@
 
 ## Rust 
 
+- [librasn/rasn](https://github.com/librasn/rasn) - A Safe #[no_std] ASN.1 Codec Framework
 - [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) - A cross platform CLI to dump Android OTA payload from URLs and Local files
 - [fasterthanlime/stringsearch](https://github.com/fasterthanlime/stringsearch) - Collection of techniques for (binary) string searching
 - [bearcove/rc-zip](https://github.com/bearcove/rc-zip) - ZIP format implementation in Rust, sans-io
