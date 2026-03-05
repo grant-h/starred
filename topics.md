@@ -65,6 +65,7 @@
 - [opengl](#opengl)
 - [osint](#osint)
 - [others](#others)
+- [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
 - [privacy](#privacy)
 - [productivity](#productivity)
@@ -141,6 +142,7 @@
 
 ## c 
 
+- [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header C port of the fast_float library
 - [hlandau/ortega](https://github.com/hlandau/ortega) - Ortega FDK
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [rocket/rocket](https://github.com/rocket/rocket) - Rocket
@@ -401,6 +403,7 @@
 
 ## others 
 
+- [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp) - Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools.
 - [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) - 
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
@@ -673,6 +676,10 @@
 - [stanleyseow/RF24](https://github.com/stanleyseow/RF24) - Arduino and Raspberry Pi driver/libraries for nRF24L01
 - [ashima/webgl-noise](https://github.com/ashima/webgl-noise) - Procedural Noise Shader Routines compatible with WebGL
 - [maniacbug/RF24](https://github.com/maniacbug/RF24) - Arduino driver for nRF24L01
+
+## parsing 
+
+- [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header C port of the fast_float library
 
 ## penetration-testing 
 
