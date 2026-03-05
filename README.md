@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header C port of the fast_float library
 - [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) - 
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
@@ -347,6 +348,7 @@
 
 ## Python 
 
+- [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp) - Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [Android-Observatory/FotaFinder](https://github.com/Android-Observatory/FotaFinder) - Tool for extracting different installation of updates or installation of other apps signals to detect FOTA & OTA.
 - [srlabs/hexagon_fuzz](https://github.com/srlabs/hexagon_fuzz) - A fuzzing framework for Hexagon baseband firmware using QEMU system emulation.
