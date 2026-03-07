@@ -142,7 +142,7 @@
 
 ## c 
 
-- [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header C port of the fast_float library
+- [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast_float library.
 - [hlandau/ortega](https://github.com/hlandau/ortega) - Ortega FDK
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [rocket/rocket](https://github.com/rocket/rocket) - Rocket
@@ -679,7 +679,7 @@
 
 ## parsing 
 
-- [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header C port of the fast_float library
+- [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast_float library.
 
 ## penetration-testing 
 
