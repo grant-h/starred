@@ -127,7 +127,7 @@
 
 ## C++ 
 
-- [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header C port of the fast_float library
+- [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast_float library.
 - [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) - 
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
