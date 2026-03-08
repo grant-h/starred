@@ -27,6 +27,7 @@
 - [cybersecurity](#cybersecurity)
 - [database](#database)
 - [design](#design)
+- [developer-tools](#developer-tools)
 - [django](#django)
 - [dotnet](#dotnet)
 - [education](#education)
@@ -57,11 +58,13 @@
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [lua](#lua)
 - [macos](#macos)
 - [mobile](#mobile)
 - [music](#music)
 - [nodejs](#nodejs)
+- [open-source](#open-source)
 - [opengl](#opengl)
 - [osint](#osint)
 - [others](#others)
@@ -162,6 +165,7 @@
 
 ## cli 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
@@ -216,6 +220,10 @@
 ## design 
 
 - [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
+
+## developer-tools 
+
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
 ## django 
 
@@ -365,6 +373,10 @@
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 - [saelo/cve-2014-0038](https://github.com/saelo/cve-2014-0038) - Linux local root exploit for CVE-2014-0038
 
+## llm 
+
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+
 ## lua 
 
 - [lcpz/lain](https://github.com/lcpz/lain) - Awesome WM complements
@@ -390,6 +402,10 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [runrog/Node-EJS-SASS-Boilerplate](https://github.com/runrog/Node-EJS-SASS-Boilerplate) - A boilerplate for quick static site generation.
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
+
+## open-source 
+
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
 ## opengl 
 
@@ -692,6 +708,7 @@
 
 ## productivity 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 
 ## pwa 
@@ -746,6 +763,7 @@
 
 ## rust 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [librasn/rasn](https://github.com/librasn/rasn) - A Safe #[no_std] ASN.1 Codec Framework
 - [bearcove/rc-zip](https://github.com/bearcove/rc-zip) - ZIP format implementation in Rust, sans-io
 - [feldera/feldera](https://github.com/feldera/feldera) - The Feldera Incremental Computation Engine
