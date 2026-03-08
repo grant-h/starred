@@ -450,6 +450,7 @@
 
 ## Rust 
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [librasn/rasn](https://github.com/librasn/rasn) - A Safe #[no_std] ASN.1 Codec Framework
 - [rhythmcache/payload-dumper-rust](https://github.com/rhythmcache/payload-dumper-rust) - A cross platform CLI to dump Android OTA payload from URLs and Local files
 - [fasterthanlime/stringsearch](https://github.com/fasterthanlime/stringsearch) - Collection of techniques for (binary) string searching
