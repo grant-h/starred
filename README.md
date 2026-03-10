@@ -69,7 +69,6 @@
 - [synacktiv/shannon-dbg](https://github.com/synacktiv/shannon-dbg) - Debugger for the Shannon Baseband
 - [carstenbru/qc-baseband-mod](https://github.com/carstenbru/qc-baseband-mod) - Modification of LTE Firmwares on smartphones
 - [dfranx/SPIRV-VM](https://github.com/dfranx/SPIRV-VM) - Virtual machine for executing SPIR-V
-- [vvb2060/Magica](https://github.com/vvb2060/Magica) - 
 - [pwncollege/pwnkernel](https://github.com/pwncollege/pwnkernel) - Kernel development & exploitation practice environment.
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [ands/lightmapper](https://github.com/ands/lightmapper) - A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!
@@ -144,6 +143,7 @@
 - [LightningTH/Cozen](https://github.com/LightningTH/Cozen) - DEF CON CTF 29 Quals Cozen challenge
 - [falkenber9/falcon](https://github.com/falkenber9/falcon) - FALCON - Fast Analysis of LTE Control channels
 - [eurecom-s3/symcc](https://github.com/eurecom-s3/symcc) - SymCC: efficient compiler-based symbolic execution
+- [vvb2060/Magica](https://github.com/vvb2060/Magica) - 
 - [SheLLVM/SheLLVM](https://github.com/SheLLVM/SheLLVM) - A collection of LLVM transform and analysis passes to write shellcode in regular C
 - [tizian/specular-manifold-sampling](https://github.com/tizian/specular-manifold-sampling) - Code for "Specular Manifold Sampling for Rendering High-Frequency Caustics and Glints" (SIGGRAPH 2020) by Tizian Zeltner, Iliyan Georgiev, and Wenzel Jakob
 - [vtil-project/VTIL-Core](https://github.com/vtil-project/VTIL-Core) - Virtual-machine Translation Intermediate Language
