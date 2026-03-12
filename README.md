@@ -230,7 +230,6 @@
 - [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 - [penibelst/jekyll-compress-html](https://github.com/penibelst/jekyll-compress-html) - A Jekyll layout that compresses HTML in pure Liquid
 - [BSVino/docs.gl](https://github.com/BSVino/docs.gl) - OpenGL Reference Documentation
-- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 
 ## Java 
 
@@ -263,6 +262,7 @@
 - [GatorLinks/GatorLinks.github.io](https://github.com/GatorLinks/GatorLinks.github.io) - 
 - [psemu/soe-network](https://github.com/psemu/soe-network) - Library for emulating SOE network traffic (PlanetSide 2 in particular)
 - [cjb/GitTorrent](https://github.com/cjb/GitTorrent) - A decentralization of GitHub using BitTorrent and Bitcoin
+- [shower/shower](https://github.com/shower/shower) - Shower HTML presentation engine
 - [mrdoob/texgen.js](https://github.com/mrdoob/texgen.js) - JavaScript Texture Generator
 - [wiredprairie/unofficial_nodejs_nest](https://github.com/wiredprairie/unofficial_nodejs_nest) - 
 
