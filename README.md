@@ -62,7 +62,7 @@
 - [madler/infgen](https://github.com/madler/infgen) - Deflate disassember to convert a deflate, zlib, or gzip stream into a readable form.
 - [lkl/linux](https://github.com/lkl/linux) - Linux kernel source tree
 - [msm8916-mainline/CVE-2022-22063](https://github.com/msm8916-mainline/CVE-2022-22063) - Security issue in the hypervisor firmware of some older Qualcomm chipsets
-- [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM functionalities
+- [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM
 - [thesecretclub/riscy-business](https://github.com/thesecretclub/riscy-business) - RISC-V Virtual Machine
 - [laf0rge/radisys_lte_enb_for_qualcomm_fsm9955](https://github.com/laf0rge/radisys_lte_enb_for_qualcomm_fsm9955) - Rasdisys Open Source code for a LTE eNB on Qualcomm FSM9955
 - [higan-emu/libco](https://github.com/higan-emu/libco) - libco is a cooperative multithreading library written in C89.
