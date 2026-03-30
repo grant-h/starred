@@ -306,7 +306,6 @@
 - [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - Comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources
 - [n132/ARVO-Meta](https://github.com/n132/ARVO-Meta) - 
 - [mdowd79/presentations](https://github.com/mdowd79/presentations) - 
-- [DravenusRex/stalker-gamma-linux-guide](https://github.com/DravenusRex/stalker-gamma-linux-guide) - A guide to getting S.T.A.L.K.E.R. - G.A.M.M.A. running on GNU/LINUX.
 - [DumprX/DumprX-CI-Bot](https://github.com/DumprX/DumprX-CI-Bot) - Dump Android ROMs/Firmwares via a PR, for free!
 - [gregdavill/PD-sniffer](https://github.com/gregdavill/PD-sniffer) - USB PD sniffer
 - [edk2-porting/sdm845-drivers](https://github.com/edk2-porting/sdm845-drivers) - For development only! Not for end users
