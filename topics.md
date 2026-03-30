@@ -460,7 +460,6 @@
 - [pycrate-org/pycrate](https://github.com/pycrate-org/pycrate) - A Python library to ease the development of encoders and decoders for various protocols and file formats, especially telecom ones. Provides an ASN.1 compiler and a CSN.1 runtime.
 - [PavelBlend/blender-xray](https://github.com/PavelBlend/blender-xray) - STALKER (aka xray-engine) import/export plugin for Blender 3D
 - [revolucas/AXRToolset](https://github.com/revolucas/AXRToolset) - 
-- [DravenusRex/stalker-gamma-linux-guide](https://github.com/DravenusRex/stalker-gamma-linux-guide) - A guide to getting S.T.A.L.K.E.R. - G.A.M.M.A. running on GNU/LINUX.
 - [seeinglogic/ariadne](https://github.com/seeinglogic/ariadne) - Ariadne: Binary Ninja Graph Analysis Plugin
 - [vlcn-io/materialite](https://github.com/vlcn-io/materialite) - Differential Dataflow & Incremental View Maintenance for JavaScript
 - [openhoangnc/android_model_name](https://github.com/openhoangnc/android_model_name) - 
