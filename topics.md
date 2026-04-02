@@ -419,6 +419,7 @@
 
 ## others 
 
+- [mattetti/SerumWavetables](https://github.com/mattetti/SerumWavetables) - Backup of wavetables for the popular virtual synth Xfer Serum
 - [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp) - Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools.
 - [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) - 
 - [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
