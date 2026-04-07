@@ -15,6 +15,7 @@
 - [bash](#bash)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [code-review](#code-review)
 - [coding](#coding)
@@ -162,6 +163,10 @@
 - [Gargaj/Bonzomatic](https://github.com/Gargaj/Bonzomatic) - Live shader coding tool and Shader Showdown workhorse
 - [castedo/isomon](https://github.com/castedo/isomon) - C/C++ library for money and ISO 4217 currency codes
 - [nRF24/RF24](https://github.com/nRF24/RF24) - OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices
+
+## claude-code 
+
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
 ## cli 
 
