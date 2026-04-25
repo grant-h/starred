@@ -324,7 +324,6 @@
 ## hacktoberfest 
 
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 - [crazystylus/otadump](https://github.com/crazystylus/otadump) - Extract partitions from Android OTA files.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [openthread/openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
