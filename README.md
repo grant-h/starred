@@ -348,6 +348,7 @@
 
 ## Python 
 
+- [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec) - A tiny educational decompiler that helps people understand how decompilation works.
 - [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp) - Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [Android-Observatory/FotaFinder](https://github.com/Android-Observatory/FotaFinder) - Tool for extracting different installation of updates or installation of other apps signals to detect FOTA & OTA.
