@@ -240,6 +240,7 @@
 
 ## education 
 
+- [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec) - A tiny educational decompiler that helps people understand how decompilation works.
 - [CTFd/CTFd](https://github.com/CTFd/CTFd) - CTFs as you need them
 
 ## electron 
@@ -746,6 +747,7 @@
 
 ## reverse-engineering 
 
+- [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec) - A tiny educational decompiler that helps people understand how decompilation works.
 - [alexander-pick/shannon_modem_loader](https://github.com/alexander-pick/shannon_modem_loader) - Exynos Modem / Shannon baseband firmware loader for IDA Pro 8.x/9.x
 - [ghidragolf/ghidra_scripts](https://github.com/ghidragolf/ghidra_scripts) - Scripts from Ghidra Golf competitions
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
