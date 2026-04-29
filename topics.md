@@ -424,6 +424,7 @@
 
 ## others 
 
+- [ramabondanp/transsion-ota-prober](https://github.com/ramabondanp/transsion-ota-prober) - Pulls OTA links for some Transsion devices (Infinix, Tecno, Itel).
 - [mattetti/SerumWavetables](https://github.com/mattetti/SerumWavetables) - Backup of wavetables for the popular virtual synth Xfer Serum
 - [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp) - Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools.
 - [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) - 
