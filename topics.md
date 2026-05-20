@@ -237,7 +237,7 @@
 
 ## dotnet 
 
-- [B2R2-org/B2R2](https://github.com/B2R2-org/B2R2) - B2R2 is a collection of useful algorithms, functions, and tools for binary analysis.
+- [B2R2-org/B2R2](https://github.com/B2R2-org/B2R2) - B2R2 is a fully managed binary analysis framework written in F#. It provides a rich set of algorithms, functions, and tools for reverse engineering, program analysis, and binary-level inspection.
 
 ## education 
 
@@ -763,7 +763,7 @@
 - [extremecoders-re/re-list](https://github.com/extremecoders-re/re-list) - A list of open source reverse engineering tools with a focus on binary analysis
 - [avatartwo/avatar2](https://github.com/avatartwo/avatar2) - Python core of avatar²
 - [hlandau/ortega](https://github.com/hlandau/ortega) - Ortega FDK
-- [B2R2-org/B2R2](https://github.com/B2R2-org/B2R2) - B2R2 is a collection of useful algorithms, functions, and tools for binary analysis.
+- [B2R2-org/B2R2](https://github.com/B2R2-org/B2R2) - B2R2 is a fully managed binary analysis framework written in F#. It provides a rich set of algorithms, functions, and tools for reverse engineering, program analysis, and binary-level inspection.
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 - [JonathanSalwan/Tigress_protection](https://github.com/JonathanSalwan/Tigress_protection) - Playing with the Tigress software protection. Break some of its protections and solve their reverse engineering challenges. Automatic deobfuscation using symbolic execution, taint analysis and LLVM.
 - [mandiant/flare-ida](https://github.com/mandiant/flare-ida) - IDA Pro utilities from FLARE team
