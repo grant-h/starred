@@ -425,6 +425,7 @@
 
 ## others 
 
+- [qriousec/colony_agent](https://github.com/qriousec/colony_agent) - 
 - [FlominatorGD/vendor_samsung_slsi](https://github.com/FlominatorGD/vendor_samsung_slsi) - 
 - [ramabondanp/transsion-ota-prober](https://github.com/ramabondanp/transsion-ota-prober) - Pulls OTA links for some Transsion devices (Infinix, Tecno, Itel).
 - [mattetti/SerumWavetables](https://github.com/mattetti/SerumWavetables) - Backup of wavetables for the popular virtual synth Xfer Serum
