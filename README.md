@@ -515,7 +515,7 @@
 
 ## Swift 
 
-- [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
+- [mrkai77/Loop](https://github.com/mrkai77/Loop) - Window management made elegant.
 
 ## SystemVerilog 
 
