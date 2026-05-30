@@ -127,6 +127,7 @@
 
 ## C++ 
 
+- [alex-bluesman/project-saturn](https://github.com/alex-bluesman/project-saturn) - Lightweight AArch64 Hypervisor
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [FlominatorGD/vendor_samsung_slsi](https://github.com/FlominatorGD/vendor_samsung_slsi) - 
 - [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) - 
@@ -455,6 +456,7 @@
 
 ## Rust 
 
+- [ant4g0nist/rudroid](https://github.com/ant4g0nist/rudroid) - Rudroid - Writing the World's worst Android Emulator in Rust 🦀
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [librasn/rasn](https://github.com/librasn/rasn) - A Safe #[no_std] ASN.1 Codec Framework
