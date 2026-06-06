@@ -456,6 +456,7 @@
 
 ## Rust 
 
+- [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs) - Download firmware for Samsung devices
 - [whit3rabbit/bubbletea-rs](https://github.com/whit3rabbit/bubbletea-rs) - A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea
 - [ant4g0nist/rudroid](https://github.com/ant4g0nist/rudroid) - Rudroid - Writing the World's worst Android Emulator in Rust 🦀
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
