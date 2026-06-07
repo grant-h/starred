@@ -77,6 +77,8 @@
 - [python](#python)
 - [python3](#python3)
 - [qt](#qt)
+- [raspberry-pi](#raspberry-pi)
+- [react](#react)
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [sass](#sass)
@@ -92,6 +94,7 @@
 - [swiftui](#swiftui)
 - [terminal](#terminal)
 - [testing](#testing)
+- [typescript](#typescript)
 - [video](#video)
 - [visualization](#visualization)
 - [vpn](#vpn)
@@ -756,6 +759,14 @@
 
 - [codilime/veles](https://github.com/codilime/veles) - Binary data analysis and visualization tool
 
+## raspberry-pi 
+
+- [cpaczek/skylight](https://github.com/cpaczek/skylight) - Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
+
+## react 
+
+- [cpaczek/skylight](https://github.com/cpaczek/skylight) - Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
+
 ## reverse-engineering 
 
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
@@ -781,6 +792,7 @@
 
 ## rust 
 
+- [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - A better compressed bitset in Rust
 - [ant4g0nist/rudroid](https://github.com/ant4g0nist/rudroid) - Rudroid - Writing the World's worst Android Emulator in Rust 🦀
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
@@ -862,6 +874,10 @@
 
 - [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
 - [osmocom/osmo-ttcn3-hacks](https://github.com/osmocom/osmo-ttcn3-hacks) - Osmocom TTCN3 tests suites; mirrored from https://gitea.osmocom.org/ttcn3/osmo-ttcn3-hacks
+
+## typescript 
+
+- [cpaczek/skylight](https://github.com/cpaczek/skylight) - Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 
 ## video 
 
