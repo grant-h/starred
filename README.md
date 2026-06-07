@@ -456,6 +456,7 @@
 
 ## Rust 
 
+- [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - A better compressed bitset in Rust
 - [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs) - Download firmware for Samsung devices
 - [whit3rabbit/bubbletea-rs](https://github.com/whit3rabbit/bubbletea-rs) - A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea
 - [ant4g0nist/rudroid](https://github.com/ant4g0nist/rudroid) - Rudroid - Writing the World's worst Android Emulator in Rust 🦀
@@ -533,6 +534,7 @@
 
 ## TypeScript 
 
+- [cpaczek/skylight](https://github.com/cpaczek/skylight) - Project the aircraft passing overhead onto your ceiling in real time, from an RTL-SDR — with a live sky layer (sun, moon, stars, ISS) and where each plane is headed.
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [vlcn-io/materialite](https://github.com/vlcn-io/materialite) - Differential Dataflow & Incremental View Maintenance for JavaScript
