@@ -579,7 +579,7 @@
 - [trpyn/YateBTS_smssend](https://github.com/trpyn/YateBTS_smssend) - C++ plugin for YateBTS to easily send SMS through command line
 - [malwaredllc/byob](https://github.com/malwaredllc/byob) - An open-source post-exploitation framework for students, researchers and developers.
 - [fms-cat/thump](https://github.com/fms-cat/thump) - Low-level-like environment for simulating multi paradigm glitch
-- [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
+- [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)
 - [borovsky/x5-snapdragon-linux](https://github.com/borovsky/x5-snapdragon-linux) - Support for Qualcomm x5 Snapdragon LTE modems in linux
 - [jbnicolai/ansi-256-colors](https://github.com/jbnicolai/ansi-256-colors) - 256 ansi color codes for sparkling rainbows in the terminal
 - [ret2/P2O_2018](https://github.com/ret2/P2O_2018) - 
