@@ -86,7 +86,7 @@
 - [radareorg/r2hexagon](https://github.com/radareorg/r2hexagon) - Hexagon disassembler code generator from the official instruction manual.
 - [hlandau/ortega](https://github.com/hlandau/ortega) - Ortega FDK
 - [scwuaptx/HITCON-Training](https://github.com/scwuaptx/HITCON-Training) - For Linux binary Exploitation
-- [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)
+- [open5gs/open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)
 - [ww9210/Linux_kernel_exploits](https://github.com/ww9210/Linux_kernel_exploits) - Repo for FUZE project. I will also publish some Linux kernel LPE exploits for various real world kernel vulnerabilities here. the samples are uploaded for education purposes for red and blue teams.
 - [buserror/simavr](https://github.com/buserror/simavr) - simavr is a lean, mean and hackable AVR simulator for linux & OSX
 - [jheusser/satcoin](https://github.com/jheusser/satcoin) - SAT-based Bitcoin Mining
