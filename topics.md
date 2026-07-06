@@ -447,6 +447,7 @@
 
 ## others 
 
+- [microsoft/preflate-rs](https://github.com/microsoft/preflate-rs) - Library to losslessly re-compress DEFLATE data (zlib, zip, docx, pdf, png, etc)
 - [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs) - Download firmware for Samsung devices
 - [whit3rabbit/bubbletea-rs](https://github.com/whit3rabbit/bubbletea-rs) - A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea
 - [alex-bluesman/project-saturn](https://github.com/alex-bluesman/project-saturn) - Lightweight AArch64 Hypervisor
