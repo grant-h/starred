@@ -213,7 +213,7 @@
 
 ## Go 
 
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
