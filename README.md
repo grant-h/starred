@@ -53,6 +53,7 @@
 
 ## C 
 
+- [neocanable/garlic](https://github.com/neocanable/garlic) - The world's fastest apk (android)/java open source decompiler
 - [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast_float library.
 - [OpenLI-NZ/openli](https://github.com/OpenLI-NZ/openli) - Open Source ETSI compliant Lawful Intercept software
 - [y-256/libdivsufsort](https://github.com/y-256/libdivsufsort) - A lightweight suffix-sorting library
@@ -456,6 +457,7 @@
 
 ## Rust 
 
+- [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan) - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter
 - [microsoft/preflate-rs](https://github.com/microsoft/preflate-rs) - Library to losslessly re-compress DEFLATE data (zlib, zip, docx, pdf, png, etc)
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - A better compressed bitset in Rust
