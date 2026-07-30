@@ -53,6 +53,7 @@
 
 ## C 
 
+- [bmdhacks/machismo](https://github.com/bmdhacks/machismo) - MacOS to Linux aarch64 loader/patcher
 - [neocanable/garlic](https://github.com/neocanable/garlic) - The world's fastest apk (android)/java open source decompiler
 - [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast_float library.
 - [OpenLI-NZ/openli](https://github.com/OpenLI-NZ/openli) - Open Source ETSI compliant Lawful Intercept software
