@@ -464,6 +464,7 @@
 
 ## others 
 
+- [bmdhacks/machismo](https://github.com/bmdhacks/machismo) - MacOS to Linux aarch64 loader/patcher
 - [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan) - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter
 - [microsoft/preflate-rs](https://github.com/microsoft/preflate-rs) - Library to losslessly re-compress DEFLATE data (zlib, zip, docx, pdf, png, etc)
 - [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs) - Download firmware for Samsung devices
