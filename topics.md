@@ -464,6 +464,7 @@
 
 ## others 
 
+- [luigifcruz/CyberEther](https://github.com/luigifcruz/CyberEther) - High-performance GPU-accelerated signal processing and visualization framework that runs anywhere.
 - [bmdhacks/machismo](https://github.com/bmdhacks/machismo) - MacOS to Linux aarch64 loader/patcher
 - [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan) - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter
 - [microsoft/preflate-rs](https://github.com/microsoft/preflate-rs) - Library to losslessly re-compress DEFLATE data (zlib, zip, docx, pdf, png, etc)
