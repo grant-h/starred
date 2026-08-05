@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [luigifcruz/CyberEther](https://github.com/luigifcruz/CyberEther) - High-performance GPU-accelerated signal processing and visualization framework that runs anywhere.
 - [alex-bluesman/project-saturn](https://github.com/alex-bluesman/project-saturn) - Lightweight AArch64 Hypervisor
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [FlominatorGD/vendor_samsung_slsi](https://github.com/FlominatorGD/vendor_samsung_slsi) - 
