@@ -53,6 +53,7 @@
 
 ## C 
 
+- [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) - Racing to the bottom of CPU performance
 - [bmdhacks/machismo](https://github.com/bmdhacks/machismo) - MacOS to Linux aarch64 loader/patcher
 - [neocanable/garlic](https://github.com/neocanable/garlic) - The world's fastest apk (android)/java open source decompiler
 - [kolemannix/ffc.h](https://github.com/kolemannix/ffc.h) - Single-header c99 accelerated float/double parsing. Port of the fast_float library.
