@@ -70,6 +70,7 @@
 - [music](#music)
 - [neovim](#neovim)
 - [nodejs](#nodejs)
+- [objective-c](#objective-c)
 - [open-source](#open-source)
 - [opengl](#opengl)
 - [osint](#osint)
@@ -447,6 +448,10 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [runrog/Node-EJS-SASS-Boilerplate](https://github.com/runrog/Node-EJS-SASS-Boilerplate) - A boilerplate for quick static site generation.
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
+
+## objective-c 
+
+- [gnustep/libobjc2](https://github.com/gnustep/libobjc2) - Objective-C runtime library intended for use with Clang.
 
 ## open-source 
 
