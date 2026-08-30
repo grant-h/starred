@@ -469,13 +469,14 @@
 
 ## others 
 
+- [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - [truce-audio/truce](https://github.com/truce-audio/truce) - Cross-platform audio and MIDI plugin development framework in Rust
 - [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) - Racing to the bottom of CPU performance
 - [luigifcruz/CyberEther](https://github.com/luigifcruz/CyberEther) - High-performance GPU-accelerated signal processing and visualization framework that runs anywhere.
 - [bmdhacks/machismo](https://github.com/bmdhacks/machismo) - MacOS to Linux aarch64 loader/patcher
 - [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan) - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter
 - [microsoft/preflate-rs](https://github.com/microsoft/preflate-rs) - Library to losslessly re-compress DEFLATE data (zlib, zip, docx, pdf, png, etc)
-- [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs) - Download firmware for Samsung devices
+- [topjohnwu/samloader-rs](https://github.com/topjohnwu/samloader-rs) - An all-in-one Samsung firmware download and flash tool
 - [whit3rabbit/bubbletea-rs](https://github.com/whit3rabbit/bubbletea-rs) - A rust implementation of Bubbletea https://github.com/charmbracelet/bubbletea
 - [alex-bluesman/project-saturn](https://github.com/alex-bluesman/project-saturn) - Lightweight AArch64 Hypervisor
 - [qriousec/colony_agent](https://github.com/qriousec/colony_agent) - 
