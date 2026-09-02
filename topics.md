@@ -354,7 +354,6 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [openthread/openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
 - [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
-- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [nRF24/RF24](https://github.com/nRF24/RF24) - OSI Layer 2 driver for nRF24L01 on Arduino & Raspberry Pi/Linux Devices
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 
@@ -702,6 +701,7 @@
 - [hellman/fixenv](https://github.com/hellman/fixenv) - Fix stack addresses (when no ASLR) with and without debugging
 - [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++
 - [zarthcode/SimpitX](https://github.com/zarthcode/SimpitX) - An attempt to provide MFD data to external apps/devices from games such as DCS World
+- [angr/angr](https://github.com/angr/angr) - A powerful and user-friendly binary analysis platform!
 - [plasma-umass/coz](https://github.com/plasma-umass/coz) - Coz: Causal Profiling
 - [sslab-gatech/opensgx](https://github.com/sslab-gatech/opensgx) - OpenSGX
 - [xoreaxeaxeax/REpsych](https://github.com/xoreaxeaxeax/REpsych) - Psychological warfare in reverse engineering
