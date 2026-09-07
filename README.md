@@ -131,6 +131,7 @@
 
 ## C++ 
 
+- [sebbbi/NoGraphicsAPI](https://github.com/sebbbi/NoGraphicsAPI) - Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my "No Graphics API" blog post and the SIGGRAPH talk.
 - [luigifcruz/CyberEther](https://github.com/luigifcruz/CyberEther) - High-performance GPU-accelerated signal processing and visualization framework that runs anywhere.
 - [alex-bluesman/project-saturn](https://github.com/alex-bluesman/project-saturn) - Lightweight AArch64 Hypervisor
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
