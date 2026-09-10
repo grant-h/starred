@@ -468,6 +468,7 @@
 
 ## others 
 
+- [Supersonic/TLPE](https://github.com/Supersonic/TLPE) - CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that allows an unprivileged app to gain arbitrary code execution as UID 1000 system_server
 - [sebbbi/NoGraphicsAPI](https://github.com/sebbbi/NoGraphicsAPI) - Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my "No Graphics API" blog post and the SIGGRAPH talk.
 - [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - [truce-audio/truce](https://github.com/truce-audio/truce) - Cross-platform audio and MIDI plugin development framework in Rust
