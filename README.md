@@ -285,7 +285,7 @@
 
 ## Kotlin 
 
-- [Supersonic/TLPE](https://github.com/Supersonic/TLPE) - CVE-2026-49881, a logic issue in the InCallController class in Android 17's Telecom service that allows an unprivileged app to gain arbitrary code execution as UID 1000 system_server
+- [Supersonic/TLPE](https://github.com/Supersonic/TLPE) - CVE-2026-49881, using insecure context creation in Android 17's Telecom service to execute arbitrary code as UID 1000 system_server from an unprivileged app
 - [hossain-khan/android-device-catalog-parser](https://github.com/hossain-khan/android-device-catalog-parser) - Android Device catalog CSV parser that is available from Google Play developer console.
 
 ## LLVM 
