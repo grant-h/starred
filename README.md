@@ -359,7 +359,7 @@
 
 ## Python 
 
-- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - 
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
 - [ramabondanp/transsion-ota-prober](https://github.com/ramabondanp/transsion-ota-prober) - Pulls OTA links for some Transsion devices (Infinix, Tecno, Itel).
 - [ZhangZhuoSJTU/tiny-dec](https://github.com/ZhangZhuoSJTU/tiny-dec) - A tiny educational decompiler that helps people understand how decompilation works.
