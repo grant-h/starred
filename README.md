@@ -74,7 +74,7 @@
 - [carstenbru/qc-baseband-mod](https://github.com/carstenbru/qc-baseband-mod) - Modification of LTE Firmwares on smartphones
 - [dfranx/SPIRV-VM](https://github.com/dfranx/SPIRV-VM) - Virtual machine for executing SPIR-V
 - [pwncollege/pwnkernel](https://github.com/pwncollege/pwnkernel) - Kernel development & exploitation practice environment.
-- [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!
+- [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) - AFL++ is a state-of-the-art fuzzer, and #1 in benchmarks. It was originally based on AFL. Today it comes with qemu 5.1, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedule
 - [ands/lightmapper](https://github.com/ands/lightmapper) - A C/C++ single-file library for drop-in lightmap baking. Just use your existing OpenGL renderer to bounce light!
 - [mpdn/unthread](https://github.com/mpdn/unthread) - A deterministic, fuzzable pthread implementation
 - [can1357/ThePerfectInjector](https://github.com/can1357/ThePerfectInjector) - Literally, the perfect injector.
