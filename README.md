@@ -465,7 +465,7 @@
 ## Rust 
 
 - [truce-audio/truce](https://github.com/truce-audio/truce) - Cross-platform audio and MIDI plugin development framework in Rust
-- [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan) - Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter
+- [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan) - Translate Metal AIR  to Vulkan SPIR-V
 - [microsoft/preflate-rs](https://github.com/microsoft/preflate-rs) - Library to losslessly re-compress DEFLATE data (zlib, zip, docx, pdf, png, etc)
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs) - A better compressed bitset in Rust
