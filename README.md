@@ -255,6 +255,7 @@
 - [dxa4481/clientHashing](https://github.com/dxa4481/clientHashing) - A demonstration of secure hashing done client side
 - [commaai/qdl.js](https://github.com/commaai/qdl.js) - a library for interfacing with Qualcomm devices in QDL mode
 - [stalker-tools/tools](https://github.com/stalker-tools/tools) - Stalker xray game engine tools
+- [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - Comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources
 - [bellingcat/sar-interference-tracker](https://github.com/bellingcat/sar-interference-tracker) - A Google Earth Engine tool for identifying satellite radar interference.
 - [Fmstrat/wintile](https://github.com/Fmstrat/wintile) - Windows 10 window tiling for GNOME
 - [adaxi/audio-output-switcher](https://github.com/adaxi/audio-output-switcher) - Gnome Shell Extension: Adds a switch for choosing audio output to the system menu.
@@ -315,7 +316,6 @@
 - [mattetti/SerumWavetables](https://github.com/mattetti/SerumWavetables) - Backup of wavetables for the popular virtual synth Xfer Serum
 - [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [xdaGari/tadiphone-buildprop-archive](https://github.com/xdaGari/tadiphone-buildprop-archive) - build.prop collection from dumps.tadiphone.dev/dumps
-- [m3y54m/Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap) - Comprehensive roadmap for aspiring Embedded Systems Engineers, featuring a curated list of learning resources
 - [n132/ARVO-Meta](https://github.com/n132/ARVO-Meta) - 
 - [mdowd79/presentations](https://github.com/mdowd79/presentations) - 
 - [DumprX/DumprX-CI-Bot](https://github.com/DumprX/DumprX-CI-Bot) - Dump Android ROMs/Firmwares via a PR, for free!
