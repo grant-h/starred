@@ -474,6 +474,7 @@
 
 ## others 
 
+- [h0m3us3r/w1700k-sdr](https://github.com/h0m3us3r/w1700k-sdr) - 
 - [Supersonic/TLPE](https://github.com/Supersonic/TLPE) - CVE-2026-49881, using insecure context creation in Android 17's Telecom service to execute arbitrary code as UID 1000 system_server from an unprivileged app
 - [sebbbi/NoGraphicsAPI](https://github.com/sebbbi/NoGraphicsAPI) - Minimal graphics API. Built on top of latest Vulkan extensions. As close as possibly to my "No Graphics API" blog post and the SIGGRAPH talk.
 - [jprx/darwin-vm](https://github.com/jprx/darwin-vm) - Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si Macs supported.
