@@ -53,6 +53,7 @@
 
 ## C 
 
+- [h0m3us3r/w1700k-sdr](https://github.com/h0m3us3r/w1700k-sdr) - 
 - [gnustep/libobjc2](https://github.com/gnustep/libobjc2) - Objective-C runtime library intended for use with Clang.
 - [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) - Racing to the bottom of CPU performance
 - [bmdhacks/machismo](https://github.com/bmdhacks/machismo) - MacOS to Linux aarch64 loader/patcher
