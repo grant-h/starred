@@ -120,6 +120,7 @@
 - [lief-project/LIEF](https://github.com/lief-project/LIEF) - LIEF - Library to Instrument Executable Formats (C++, Python, Rust)
 - [zenfyrdev/bootloader-unlock-wall-of-shame](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [hossain-khan/android-device-catalog-parser](https://github.com/hossain-khan/android-device-catalog-parser) - Android Device catalog CSV parser that is available from Google Play developer console.
+- [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [xdaGari/tadiphone-buildprop-archive](https://github.com/xdaGari/tadiphone-buildprop-archive) - build.prop collection from dumps.tadiphone.dev/dumps
 - [ssut/payload-dumper-go](https://github.com/ssut/payload-dumper-go) - an android OTA payload dumper written in Go
@@ -493,7 +494,6 @@
 - [mattetti/SerumWavetables](https://github.com/mattetti/SerumWavetables) - Backup of wavetables for the popular virtual synth Xfer Serum
 - [mrphrazer/binary-ninja-headless-mcp](https://github.com/mrphrazer/binary-ninja-headless-mcp) - Headless Binary Ninja MCP server — giving AI agents deep reverse-engineering capabilities via 180 tools.
 - [0x1F9F1/pattern-bench](https://github.com/0x1F9F1/pattern-bench) - 
-- [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [usgraphics/usgc-invoice](https://github.com/usgraphics/usgc-invoice) - Invoice LaTeX template
 - [dxa4481/clientHashing](https://github.com/dxa4481/clientHashing) - A demonstration of secure hashing done client side
 - [101arrowz/fflate](https://github.com/101arrowz/fflate) - High performance (de)compression in an 8kB package
@@ -775,6 +775,7 @@
 
 ## privacy 
 
+- [doug-leith/android-protobuf-decoding](https://github.com/doug-leith/android-protobuf-decoding) - Protobuf schemas for decoding Google Play Services network traffic on Android phones
 - [snuffyDev/Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative YouTube Music frontend built with Svelte/SvelteKit 🎧
 - [mark-ignacio/py-fakename](https://github.com/mark-ignacio/py-fakename) - Python wrapper for making fake identities with fakena.me
 
