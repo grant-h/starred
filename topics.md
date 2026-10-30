@@ -7,6 +7,7 @@
 
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [ansible](#ansible)
 - [arduino](#arduino)
 - [automation](#automation)
@@ -133,6 +134,10 @@
 ## angular 
 
 - [Soundnode/soundnode-app](https://github.com/Soundnode/soundnode-app) - Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.
+
+## animation 
+
+- [tixl3d/tixl](https://github.com/tixl3d/tixl) - TiXL is an open source software to create realtime motion graphics.
 
 ## ansible 
 
