@@ -66,6 +66,7 @@
 - [llm](#llm)
 - [lua](#lua)
 - [macos](#macos)
+- [malware](#malware)
 - [mobile](#mobile)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -377,6 +378,7 @@
 
 - [onomondo/onomondo-uicc](https://github.com/onomondo/onomondo-uicc) - Onomondo UICC - a software implementation of SIM/UICC/USIM
 - [openthread/openthread](https://github.com/openthread/openthread) - OpenThread released by Google is an open-source implementation of the Thread networking protocol
+- [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 
 ## java 
 
@@ -431,6 +433,10 @@
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [sslab-gatech/pwn2own2020](https://github.com/sslab-gatech/pwn2own2020) - Compromising the macOS Kernel through Safari by Chaining Six Vulnerabilities
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+
+## malware 
+
+- [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 
 ## mobile 
 
@@ -674,7 +680,6 @@
 - [simianhacker/code-by-voice](https://github.com/simianhacker/code-by-voice) - All the support file for my code by voice setup using Dragon Naturally Speaking and DragonFly
 - [t4ngo/dragonfly](https://github.com/t4ngo/dragonfly) - ARCHIVED! - Speech recognition framework allowing powerful Python-based scripting and extension of Dragon NaturallySpeaking (DNS) and Windows Speech Recognition (WSR)
 - [slackhq/go-audit](https://github.com/slackhq/go-audit) - go-audit is an alternative to the auditd daemon that ships with many distros
-- [jgamblin/Mirai-Source-Code](https://github.com/jgamblin/Mirai-Source-Code) - Leaked Mirai Source Code for Research/IoC Development Purposes
 - [axt/angr-utils](https://github.com/axt/angr-utils) - Handy utilities for the angr binary analysis framework, most notably CFG visualization
 - [maandree/wikiquote-fortune](https://github.com/maandree/wikiquote-fortune) - [UNMAINTAINED] Generate fortune cookies from Wikiquote
 - [REMath/literature_review](https://github.com/REMath/literature_review) - Survey of program analysis research with a focus on machine code
