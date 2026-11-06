@@ -465,6 +465,7 @@
 
 ## Rust 
 
+- [Gabriel2392/SVE-2026-3546](https://github.com/Gabriel2392/SVE-2026-3546) - 
 - [truce-audio/truce](https://github.com/truce-audio/truce) - Cross-platform audio and MIDI plugin development framework in Rust
 - [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan) - Translate Metal shaders to Vulkan, also a Metal Device API backed by Vulkan
 - [microsoft/preflate-rs](https://github.com/microsoft/preflate-rs) - Library to losslessly re-compress DEFLATE data (zlib, zip, docx, pdf, png, etc)
